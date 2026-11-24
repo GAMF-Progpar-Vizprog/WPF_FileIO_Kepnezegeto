@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace WPF_Kepnezegeto
+namespace WPF_FileIO_Kepnezegeto
 {
 	/// <summary>
 	/// Interaction logic for App.xaml

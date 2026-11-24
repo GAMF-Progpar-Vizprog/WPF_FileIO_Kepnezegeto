@@ -6,11 +6,8 @@ using System.Windows.Media;
 using System.Windows.Media.Animation;
 using System.Windows.Media.Imaging;
 
-namespace WPF_Kepnezegeto
+namespace WPF_FileIO_Kepnezegeto 
 {
-	/// <summary>
-	/// Interaction logic for wndFoablak.xaml
-	/// </summary>
 	public partial class wndFoablak : Window
 	{
 		/// <summary>

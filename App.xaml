@@ -1,7 +1,7 @@
-﻿<Application x:Class="WPF_Kepnezegeto.App"
+﻿<Application x:Class="WPF_FileIO_Kepnezegeto.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:WPF_Kepnezegeto"
+             xmlns:local="clr-namespace:WPF_FileIO_Kepnezegeto"
              StartupUri="wndFoablak.xaml">
     <Application.Resources>
          
